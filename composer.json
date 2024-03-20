@@ -1,6 +1,6 @@
 {
-  "name": "perfectpanel/maxmind-geolite2-database",
+  "name": "vadim-devo/geolite2-database",
   "keywords": ["maxmind"],
-  "version": "1.0.8",
+  "version": "1.0.0",
   "license": "MIT"
 }

@@ -17,7 +17,10 @@ add to your `composer.json`
   }
 }
 ```
-
+end
+```shell
+composer update vadim-devo/geolite2-database
+```
 OR
 
 [directly from maxmind website](http://dev.maxmind.com/geoip/geoip2/geolite2/)
