@@ -13,7 +13,7 @@ add to your `composer.json`
     }
   ],
   "require": {
-    "vadim-devo/geolite2-database": "dev-master"
+    "vadim-devo/geolite2-database": "dev-main"
   }
 }
 ```
